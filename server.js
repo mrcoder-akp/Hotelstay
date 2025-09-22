@@ -34,6 +34,7 @@ const corsOptions = {
       process.env.CLIENT_URL,
       'http://localhost:5173',
       'http://localhost:3000',
+      'https://hotelstay-ui.vercel.app',
       /\.vercel\.app$/  // Allow any Vercel deployment
     ];
 
